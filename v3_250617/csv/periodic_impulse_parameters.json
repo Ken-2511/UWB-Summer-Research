@@ -1,0 +1,12 @@
+{
+  "period": 512.9545454545455,
+  "frequency": 0.001949490474080638,
+  "offset": 1204.0,
+  "amplitude": 2.348487441220831,
+  "num_detected_peaks": 24,
+  "num_fitted_pulses": 23,
+  "best_fit_shape": "gaussian",
+  "rmse": 1.0715093250677759,
+  "correlation": 0.5483831171588659,
+  "peak_alignment_error": 20.68972332015945
+}
