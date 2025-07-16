@@ -1,0 +1,4 @@
+---
+mode: agent
+---
+Speak English!
